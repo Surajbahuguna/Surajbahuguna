@@ -3,19 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajbahuguna&label=Profile%20views&color=0e75b6&style=flat" alt="surajbahuguna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajbahuguna" alt="surajbahuguna" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/imsurajbahuguna" target="blank"><img src="https://img.shields.io/twitter/follow/imsurajbahuguna?logo=twitter&style=for-the-badge" alt="imsurajbahuguna" /></a> </p>
 
-- 🌱 I’m currently learning **Salesforce Administration &Cloud fundamentals **
-
+- 🌱 I’m currently learning Salesforce Administration & Cloud fundamentals.
+- 💬 Ask me about Web Development, Salesforce, Troubleshooting & Photography
 - 👨‍💻 All of my projects are available at Github
-
+- 📫 How to reach me iamsurajbahuguna@gmail.com
 - 📝 I regularly write articles on [surajbahuguna.blogspot.com](surajbahuguna.blogspot.com)
 
-- 💬 Ask me about Web Development, Salesforce, Troubleshooting & Photography
-
-- 📫 How to reach me iamsurajbahuguna@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
