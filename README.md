@@ -23,13 +23,13 @@ preview
 
 <p align="left"> <a href="https://twitter.com/imsurajbahuguna" target="blank"><img src="https://img.shields.io/twitter/follow/imsurajbahuguna?logo=twitter&style=for-the-badge" alt="imsurajbahuguna" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial intelligence, Data Structure,**
+- 🌱 I’m currently learning **Salesforce Administration, Cloud fundamentals **
 
-- 👨‍💻 All of my projects are available at [surajbahuguna.netlify.app](surajbahuguna.netlify.app)
+- 👨‍💻 All of my projects are available at Github
 
 - 📝 I regularly write articles on [surajbahuguna.blogspot.com](surajbahuguna.blogspot.com)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, Salesforce, Troubleshooting & Photography **
 
 - 📫 How to reach me **iamsurajbahuguna@gmail.com**
 
