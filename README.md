@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [surajbahuguna.blogspot.com](surajbahuguna.blogspot.com)
 
-- 💬 Ask me about **Web Development, Salesforce, Troubleshooting & Photography **
+- 💬 Ask me about Web Development, Salesforce, Troubleshooting & Photography
 
-- 📫 How to reach me **iamsurajbahuguna@gmail.com**
+- 📫 How to reach me iamsurajbahuguna@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
